@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Translates on FenBays</title>
+    <link>https://fenbays.com/translate/</link>
+    <description>Recent content in Translates on FenBays</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 19 Oct 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://fenbays.com/translate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>旧金山的魅力</title>
+      <link>https://fenbays.com/translate/guide-to-san-francisco/</link>
+      <pubDate>Sat, 19 Oct 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://fenbays.com/translate/guide-to-san-francisco/</guid>
+      <description>自从玩过看门狗2之后就对旧金山湾区甚感兴趣，想象中那是个浪漫至极的城市，高耸的红色大桥、海滨城市的美丽海滩和粼粼水光、硅谷园区的杰出创意、闻名世界的交响音乐、加州风情的一号公路&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>
